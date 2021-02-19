@@ -114,7 +114,7 @@ int main(void)
  
 
     /* Create a windowed mode window and its OpenGL context */
-    window = glfwCreateWindow(640, 480, "My name is DZ 420 blaze it 69", NULL, NULL);
+    window = glfwCreateWindow(640, 480, "My name is DZ 420 blaze it", NULL, NULL);
     if (!window)
     {
         glfwTerminate();
